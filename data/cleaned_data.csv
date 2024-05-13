@@ -1,0 +1,102 @@
+Food,Serving Size (1 Portion),Calories,Protein (g),Fat (g),Carbs (g),Sodium (mg),Potassium (mg),Source,food_idx
+Apple pie,"1/8 of 9"" diameter pie",296.3,2.4,13.8,42.5,251.3,81.3,"https://www.eatthismuch.com/food/nutrition/apple-pie,4215/",apple_pie
+Baby back ribs,3 ribs,290.0,23.0,20.0,5.0,610,0,"https://www.eatthismuch.com/food/nutrition/baby-back-ribs,95066",baby_back_ribs
+Baklava,2 oz,230.3,3.0,11.0,30.0,79.8,0,"https://www.eatthismuch.com/food/nutrition/assorted-baklava,463949/",baklava
+Beef carpaccio,3 oz,180.0,25.0,8.0,0.0,65,0,"https://www.eatthismuch.com/food/nutrition/beef-carpaccio,90507",beef_carpaccio
+Beef tartare,5 oz,374.4,21.4,30.1,3.4,139.1,366.9,"https://www.eatthismuch.com/food/nutrition/classic-steak-tartare,1203516/",beef_tartare
+Beet salad,8.5 oz,52.0,2.0,0.4,11.0,51,526,"https://www.eatthismuch.com/recipe/nutrition/beetroot-salad,905902",beet_salad
+Beignets,1 beignet,270.0,8.0,3.0,54.0,240,0,"https://www.eatthismuch.com/food/nutrition/beignet,1979445",beignets
+Bibimbap,13 oz,484.0,9.0,1.0,107.0,0,97,"https://www.eatthismuch.com/food/nutrition/bibimbap,350900",bibimbap
+Bread pudding,3.5 oz,180.0,4.0,7.0,27.0,160,0,"https://www.eatthismuch.com/food/nutrition/bread-pudding,589168?a=1%3A2",bread_pudding
+Breakfast burrito,1 burrito,350.0,14.0,13.0,42.0,500,0,"https://www.eatthismuch.com/food/nutrition/breakfast-burrito,579360",breakfast_burrito
+Bruschetta,1 serving (2 pieces),583.0,15.0,34.0,55.0,1922,0,"https://www.eatthismuch.com/food/nutrition/siciliani-bruschette,540099/",bruschetta
+Caesar salad,10 oz,260.0,11.0,14.0,26.0,540,0,"https://www.eatthismuch.com/food/nutrition/caesar-salad-10oz,2047329/",caesar_salad
+Cannoli,1 piece,374.0,10.0,17.0,44.0,88,0,"https://www.eatthismuch.com/food/nutrition/cannoli,590737/",cannoli
+Caprese salad,1 salad,479.0,17.0,40.0,10.0,740,0,"https://www.eatthismuch.com/food/nutrition/caprese-salad,590751/",caprese_salad
+Carrot cake,1 oz,117.7,1.4,2.8,22.5,160.7,47.9,"https://www.eatthismuch.com/food/nutrition/carrot-cake,4039/",carrot_cake
+Ceviche,3 oz,27.7,2.3,0.2,5.2,737.7,126.1,"https://www.eatthismuch.com/food/nutrition/shrimp-ceviche,42613/",ceviche
+Cheese plate,1 bottle,220.0,15.0,5.0,26.0,210,455,"https://www.eatthismuch.com/food/nutrition/meat-cheese-plate-uncured-salami-white-cheddar,1757356/",cheese_plate
+Cheesecake,1 slice,500.0,7.0,31.0,46.0,370,0,"https://www.eatthismuch.com/food/nutrition/cheese-cake,199513/",cheesecake
+Chicken curry,4.8 oz,118.5,14.4,5.7,1.8,1957.5,168.7,"https://www.eatthismuch.com/food/nutrition/chicken-curry,2996910/",chicken_curry
+Chicken quesadilla,4.3 oz,450.0,19.0,28.0,31.0,790,0,"https://www.eatthismuch.com/food/nutrition/chicken-quesadilla,2067250/",chicken_quesadilla
+Chicken wings,4 wings,258.0,21.8,18.3,0.2,0,154,"https://www.eatthismuch.com/food/nutrition/chicken-wings,193469/",chicken_wings
+Chocolate cake,2.26 oz (1/8 of 18 oz cake),249.0,2.2,12.8,33.8,222.7,172.8,"https://www.eatthismuch.com/food/nutrition/chocolate-cake,4041/",chocolate_cake
+Chocolate mousse,7.13 oz,454.5,8.4,32.3,32.5,76.8,288.9,"https://www.eatthismuch.com/food/nutrition/chocolate-mousse,4546/",chocolate_mousse
+Churros,4.94 oz,562.0,5.0,25.5,71.5,510,0,"https://www.eatthismuch.com/food/nutrition/churro,149872/",churros
+Clam chowder,1 can (10.7 oz),218.2,9.6,6.2,31.3,1563.5,669.6,"https://www.eatthismuch.com/food/nutrition/clam-chowder-soup,659/",clam_chowder
+Club sandwich,1 sandwich,340.0,18.0,9.0,47.0,1240,0,"https://www.eatthismuch.com/food/nutrition/classic-club-sandwich,1943908/",club_sandwich
+Crab cakes,1 cake,159.6,11.3,10.4,5.1,491.4,162,"https://www.eatthismuch.com/food/nutrition/crab-cake,4967/",crab_cakes
+Creme brulee,9.17 oz,286.0,11.0,6.9,46.0,195,0,https://www.nutritionvalue.org/Creme_brulee_13210370_nutritional_value.html,creme_brulee
+Croque madame,1 sandwich,517.0,29.0,33.0,26.0,944.4,318.9,"https://www.eatthismuch.com/recipe/nutrition/croque-madame,374441/",croque_madame
+Cupcakes,3.53 oz,240.0,1.0,12.0,35.0,140,0,"https://www.eatthismuch.com/food/nutrition/cupcake,162901/",cupcakes
+Deviled eggs,4 eggs,305.0,26.0,18.0,4.0,2640.6,274.8,"https://www.eatthismuch.com/recipe/nutrition/deviled-eggs,971515/",deviled_eggs
+Donuts,1 donut,225.7,2.8,13.0,24.5,248,69.7,"https://www.eatthismuch.com/food/nutrition/doughnuts,4167/",donuts
+Dumplings,4 dumplings,190.0,8.0,9.0,19.0,250,140,"https://www.eatthismuch.com/food/nutrition/dumplings,1833739/",dumplings
+Edamame,1 cup,189.1,16.9,8.1,15.4,9.3,675.8,"https://www.eatthismuch.com/food/nutrition/edamame,1978/",edamame
+Eggs benedict,9 oz,418.0,25.0,20.0,35.0,1008,0,"https://www.eatthismuch.com/food/nutrition/eggs-benedict,186000/",eggs_benedict
+Escargots,2.92 oz,74.0,15.0,1.0,0.5,0,0,"https://www.eatthismuch.com/food/nutrition/escargots,2533389/",escargots
+Falafel,2 falafels,100.0,3.0,6.0,6.0,200,0,"https://www.eatthismuch.com/calories/falafel,201759",falafel
+Filet mignon,1 filet,680.0,51.0,51.0,0.2,324,0,"https://www.eatthismuch.com/calories/filet-mignon,201804",filet_mignon
+Fish and chips,1 serving,490.0,15.0,18.0,60.0,0,0,"https://www.eatthismuch.com/calories/fish-and-chips,140067",fish_and_chips
+Foie gras,2 oz,250.0,6.0,24.0,2.0,410,0,"https://www.eatthismuch.com/food/nutrition/duck-foie-gras,90461/",foie_gras
+French fries,7.34 oz,601.0,7.0,29.0,69.0,743,1134,"https://www.eatthismuch.com/calories/french-fries,5653?a=1%3A0",french_fries
+French onion soup,27.09 oz,537.0,24.0,13.0,78.0,2647,636,"https://www.eatthismuch.com/calories/french-onion-soup,33483",french_onion_soup
+French toast,2 slices,298.0,10.0,14.0,33.0,623,174,"https://www.eatthismuch.com/calories/french-toast,4188?a=2%3A2",french_toast
+Fried calamari,9 oz,534.0,24.0,27.0,45.0,1331,0,"https://www.eatthismuch.com/calories/fried-calamari,3148018?a=0.25%3A0",fried_calamari
+Fried rice,9 oz,390.0,16.0,12.0,48.0,165,497,"https://www.eatthismuch.com/calories/fried-rice,33939?a=0.5%3A0",fried_rice
+Frozen yogurt,3.50 oz,190.0,5.0,7.0,29.0,71,0,"https://www.eatthismuch.com/calories/frozen-yogurt,188770",frozen_yogurt
+Garlic bread,1.83 oz,218.0,3.0,16.0,16.0,386,0,"https://www.eatthismuch.com/nutrition/garlic-bread,186014",garlic_bread
+Gnocchi,12.10 oz,500.0,5.0,0.0,13.0,10,0,"https://www.eatthismuch.com/nutrition/gnocchi,2659870",gnocchi
+Greek salad,21.38 oz,628.0,13.0,45.0,50.0,1526,0,"https://www.eatthismuch.com/nutrition/greek-salad,198867",greek_salad
+Grilled cheese sandwich,3.32 oz,330.0,11.0,16.0,34.0,800,130,"https://www.eatthismuch.com/nutrition/grilled-cheese-sandwich,541032",grilled_cheese_sandwich
+Grilled salmon,3.50 oz,749.0,50.0,19.0,95.0,1623,0,"https://www.eatthismuch.com/nutrition/grilled-salmon,186845",grilled_salmon
+Guacamole,0.92 oz,55.0,1.0,5.0,2.0,128,0,"https://www.eatthismuch.com/nutrition/guacamole,607893",guacamole
+Gyoza,5.00 oz,390.0,10.0,22.0,37.0,620,0,"https://www.eatthismuch.com/nutrition/gyoza,2099528",gyoza
+Hamburger,4.59 oz,300.0,19.0,13.0,27.0,650,0,"https://www.eatthismuch.com/food/nutrition/hamburger,593751/",hamburger
+Hot and sour soup,8.01 oz,70.0,4.0,2.0,9.0,1440,0,"https://www.eatthismuch.com/food/nutrition/hot-and-sour-soup,192366/",hot_and_sour_soup
+Hot dog,3.88 oz,290.0,11.0,17.0,22.0,900,0,"https://www.eatthismuch.com/food/nutrition/hot-dog,446922/",hot_dog
+Huevos rancheros,6.00 oz,320.0,12.0,12.0,39.0,330,320,"https://www.eatthismuch.com/food/nutrition/huevos-rancheros,4168506/",huevos_rancheros
+Hummus,3.50 oz,198.0,9.0,11.0,23.0,454,0,"https://www.eatthismuch.com/food/nutrition/hummus,200471/",hummus
+Ice cream,3.50 oz ,250.0,3.0,13.0,29.0,105,0,"https://www.eatthismuch.com/food/nutrition/ice-cream,178083/",ice_cream
+Lasagna,3.50 oz,429.0,29.0,23.0,26.0,1205,0,"https://www.eatthismuch.com/food/nutrition/lasagna,188497/",lasagna
+Lobster bisque,12.00 oz,460.0,16.0,32.0,28.0,1600,0,"https://www.eatthismuch.com/food/nutrition/lobster-bisque,610704/",lobster_bisque
+Lobster roll sandwich,6.98 oz,410.0,22.0,30.0,31.0,860,0,"https://www.eatthismuch.com/food/nutrition/lobster-roll-sandwich-box-catering,2896679/",lobster_roll_sandwich
+Macaroni and cheese,3.50 oz,156.0,7.0,8.0,13.0,434,0,"https://www.eatthismuch.com/food/nutrition/macaroni-and-cheese,202133/",macaroni_and_cheese
+Macarons,16.00 oz,230.0,2.0,7.0,42.0,110,0,"https://www.eatthismuch.com/food/nutrition/macaroon,1584332/",macarons
+Miso soup,3.50 oz,85.0,3.5,3.0,11.0,0,0,"https://www.eatthismuch.com/food/nutrition/miso-soup,200960/",miso_soup
+Mussels,2.00 oz,50.0,7.0,1.5,2.0,160,0,"https://www.eatthismuch.com/food/nutrition/mussels,1789023/",mussels
+Nachos,6.00 oz,539.0,9.0,28.0,66.0,890,0,"https://www.eatthismuch.com/food/nutrition/nachos,609946/",nachos
+Omelette,3.50 oz,249.0,12.0,21.0,3.0,385,0,"https://www.eatthismuch.com/food/nutrition/omelet,188462/",omelette
+Onion rings,4.66 oz ,420.0,6.0,21.0,52.0,1740,0,"https://www.eatthismuch.com/food/nutrition/onion-rings,610021/",onion_rings
+Oysters,3.50 oz,290.0,17.0,14.0,22.0,0,0,"https://www.eatthismuch.com/food/nutrition/oysters,196696/",oysters
+Pad thai,10 oz ,560.0,14.0,16.0,70.0,770,0,"https://www.eatthismuch.com/food/nutrition/pad-thai,1983130/",pad_thai
+Paella,14.11 oz,540.0,19.6,20.0,68.0,1200,0,"https://www.eatthismuch.com/food/nutrition/paella,200534/",paella
+Pancakes,4.10 oz,280.0,7.0,8.0,44.0,500,0,"https://www.eatthismuch.com/food/nutrition/pancakes,576889/",pancakes
+Panna cotta,2.65 oz,200.0,3.0,10.0,25.0,50,100,"https://www.eatthismuch.com/food/nutrition/panna-cotta-caramel,2891827/",panna_cotta
+Peking duck,3.50 oz,749.0,31.0,19.0,115.0,1756,0,"https://www.eatthismuch.com/food/nutrition/peking-duck,170875/",peking_duck
+Pho,3.50 oz,134.0,2.0,2.0,27.0,1211,0,"https://www.eatthismuch.com/food/nutrition/pho-noodle-bowl,191627/",pho
+Pizza,7.27 oz,520.0,22.0,30.9,38.9,710,0,"https://www.eatthismuch.com/food/nutrition/pizza,201337/",pizza
+Pork chop,7.94 oz ,560.0,32.0,22.0,56.0,1430,0,"https://www.eatthismuch.com/food/nutrition/pork-chop,190748/",pork_chop
+Poutine,2.94 oz ,839.0,25.0,43.0,87.0,1896,0,"https://www.eatthismuch.com/food/nutrition/poutine,609214/",poutine
+Prime rib,7.90 oz,440.0,41.0,29.0,1.0,2965,0,"https://www.eatthismuch.com/food/nutrition/prime-rib,193849/",prime_rib
+Pulled pork sandwich,3.50 oz ,558.0,36.0,25.0,48.0,639,0,"https://www.eatthismuch.com/food/nutrition/pulled-pork-sandwich,184721/",pulled_pork_sandwich
+Ramen,2.61 oz,330.0,7.0,13.0,45.0,1980,0,"https://www.eatthismuch.com/food/nutrition/ramen,1857312/",ramen
+Ravioli,10.58 oz ,140.0,7.0,2.0,25.0,1330,0,"https://www.eatthismuch.com/food/nutrition/ravioli,177307/",ravioli
+Red velvet cake,3.50 oz,770.0,7.0,41.0,95.0,370,0,"https://www.eatthismuch.com/food/nutrition/red-velvet-cake,201019/",red_velvet_cake
+Risotto,2.99 oz,330.0,8.0,7.0,58.0,600,0,"https://www.eatthismuch.com/food/nutrition/risotto,1959888/",risotto
+Samosa,3.50 oz,333.0,9.0,17.0,45.0,813,0,"https://www.eatthismuch.com/food/nutrition/samosas,201102/",samosa
+Sashimi,5.00 oz,200.0,32.0,8.0,0.0,75,0,"https://www.eatthismuch.com/food/nutrition/sashimi,3344511/",sashimi
+Scallops,5.00 oz,240.0,22.2,8.8,14.4,0,0,"https://www.eatthismuch.com/food/nutrition/scallops,196693/",scallops
+Seaweed salad,3.50 oz,130.0,3.0,4.5,23.0,880,0,"https://www.eatthismuch.com/food/nutrition/seaweed-salad,202541/",seaweed_salad
+Shrimp and grits,15.06 oz,390.0,36.0,8.0,40.0,890,0,"https://www.eatthismuch.com/food/nutrition/shrimp-and-grits,3332747/",shrimp_and_grits
+Spaghetti bolognese,11.99 oz ,540.0,26.0,23.0,55.0,900,460,"https://www.eatthismuch.com/food/nutrition/spaghetti-bolognese,1807210/",spaghetti_bolognese
+Spaghetti carbonara,11.28 oz,310.0,12.8,9.6,35.2,0,0,"https://www.eatthismuch.com/food/nutrition/spaghetti-carbonara,198770/",spaghetti_carbonara
+Spring rolls,3.50 oz,120.0,3.0,5.0,13.0,300,0,"https://www.eatthismuch.com/food/nutrition/spring-rolls,169635/",spring_rolls
+Steak,3.50 oz,451.0,37.0,32.0,2.0,0,0,"https://www.eatthismuch.com/food/nutrition/steak,202269/",steak
+Strawberry shortcake,11.30 oz,500.0,4.0,14.0,95.0,790,0,"https://www.eatthismuch.com/food/nutrition/strawberry-shortcake,593863/",strawberry_shortcake
+Sushi,1 serving (9 pc),410.0,8.0,15.0,57.0,680,0,"https://www.eatthismuch.com/food/nutrition/sushi,2214932/",sushi
+Tacos,3.50 oz,278.0,13.0,15.0,20.0,520,0,"https://www.eatthismuch.com/food/nutrition/taco,195706/ ",tacos
+Takoyaki,1.00 oz,140.0,1.0,7.0,18.0,160,30,"https://www.eatthismuch.com/food/nutrition/takoyaki-ball,2725084/ ",takoyaki
+Tiramisu,0.71 oz,820.0,11.0,50.0,74.0,150,0,"https://www.eatthismuch.com/food/nutrition/tiramisu,197108/ ",tiramisu
+Tuna tartare,12.45 oz,600.0,36.0,31.0,50.0,880,0,"https://www.eatthismuch.com/food/nutrition/tuna-tartare,2225589/ ",tuna_tartare
+Waffles,1.40 oz,120.0,2.0,6.0,15.0,180,0,"https://www.eatthismuch.com/food/nutrition/waffles,575453/ ",waffles
