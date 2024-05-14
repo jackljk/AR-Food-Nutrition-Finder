@@ -35,9 +35,10 @@ def getNutritionInfo(image):
 
 def _getNutritionInfo(predicted_foods):
     out = []
-
+    print(predicted_foods)
     for word, prob in predicted_foods:
         temp = {}
+        # print(df[df['food_idx'] == word]['Food'].values[0])
         temp['Food'] = df[df['food_idx'] == word]['Food'].values[0]
         temp['Serving_Size'] = df[df['food_idx'] == word]['Serving Size (1 Portion)'].values[0]
         temp['Calories'] = df[df['food_idx'] == word]['Calories'].values[0]
